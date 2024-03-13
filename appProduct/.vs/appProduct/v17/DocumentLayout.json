@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andres\\Desktop\\CS\\ANGULAR_API_MARKET\\appProduct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2672A19A-4B09-4105-B593-5E499C5022E9}|appProduct\\appProduct.csproj|c:\\users\\andres\\desktop\\cs\\angular_api_market\\appproduct\\appproduct\\repository\\entities\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2672A19A-4B09-4105-B593-5E499C5022E9}|appProduct\\appProduct.csproj|solutionrelative:appproduct\\repository\\entities\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2672A19A-4B09-4105-B593-5E499C5022E9}|appProduct\\appProduct.csproj|c:\\users\\andres\\desktop\\cs\\angular_api_market\\appproduct\\appproduct\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2672A19A-4B09-4105-B593-5E499C5022E9}|appProduct\\appProduct.csproj|solutionrelative:appproduct\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2672A19A-4B09-4105-B593-5E499C5022E9}|appProduct\\appProduct.csproj|c:\\users\\andres\\desktop\\cs\\angular_api_market\\appproduct\\appproduct\\repository\\entities\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2672A19A-4B09-4105-B593-5E499C5022E9}|appProduct\\appProduct.csproj|solutionrelative:appproduct\\repository\\entities\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2672A19A-4B09-4105-B593-5E499C5022E9}|appProduct\\appProduct.csproj|c:\\users\\andres\\desktop\\cs\\angular_api_market\\appproduct\\appproduct\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2672A19A-4B09-4105-B593-5E499C5022E9}|appProduct\\appProduct.csproj|solutionrelative:appproduct\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\Desktop\\CS\\ANGULAR_API_MARKET\\appProduct\\appProduct\\Repository\\Entities\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "appProduct\\Repository\\Entities\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Andres\\Desktop\\CS\\ANGULAR_API_MARKET\\appProduct\\appProduct\\Repository\\Entities\\OrderRepository.cs",
+              "RelativeToolTip": "appProduct\\Repository\\Entities\\OrderRepository.cs",
+              "ViewState": "AQIAAEgAAADAmZmZmZkwwFYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T04:19:33.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\Desktop\\CS\\ANGULAR_API_MARKET\\appProduct\\appProduct\\Controllers\\OrderDetailController.cs",
+              "RelativeDocumentMoniker": "appProduct\\Controllers\\OrderDetailController.cs",
+              "ToolTip": "C:\\Users\\Andres\\Desktop\\CS\\ANGULAR_API_MARKET\\appProduct\\appProduct\\Controllers\\OrderDetailController.cs",
+              "RelativeToolTip": "appProduct\\Controllers\\OrderDetailController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T04:18:22.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\Desktop\\CS\\ANGULAR_API_MARKET\\appProduct\\appProduct\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "appProduct\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\Andres\\Desktop\\CS\\ANGULAR_API_MARKET\\appProduct\\appProduct\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "appProduct\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T03:49:43.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\Desktop\\CS\\ANGULAR_API_MARKET\\appProduct\\appProduct\\Repository\\Entities\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "appProduct\\Repository\\Entities\\OrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\Andres\\Desktop\\CS\\ANGULAR_API_MARKET\\appProduct\\appProduct\\Repository\\Entities\\OrderDetailRepository.cs",
+              "RelativeToolTip": "appProduct\\Repository\\Entities\\OrderDetailRepository.cs",
+              "ViewState": "AQIAABAAAAAA/v////8fwGgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T03:33:45.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
